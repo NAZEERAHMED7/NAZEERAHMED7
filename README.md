@@ -44,7 +44,9 @@
 
 ###
 
-<h3 align="left">📚 Projects<br><br>Al-Quran API : https://nazeerahmed7.github.io/quran_api/ <br><br>Only Content Creators (Mood Board): <br>https://www.behance.net/gallery/205198787/Only-Content-Creators-%28Mood-Board%29<br><br>Only Content Creators (Figma Web Design): https://www.behance.net/gallery/205200639/Only-Content-Creators-(Webpage-Design)</h3>
+<h3 align="left">📚 Projects<br><br><a href="https://nazeerahmed7.github.io/quran_api/">Al-Quran API:</a> <br><br> 
+  <a href="https://www.behance.net/gallery/205198787/Only-Content-Creators-%28Mood-Board%29"> Only Content Creators (Mood Board):</a> <br><br>
+  <a href="https://www.behance.net/gallery/205200639/Only-Content-Creators-%28Webpage-Design%29"> Only Content Creators (Figma Web Design):</a> <br><br></h3>
 
 ###
 
