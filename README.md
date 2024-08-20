@@ -6,13 +6,18 @@
 
 ###
 
-<p align="left">- 🔭 I’m working as Software Developer Intern on WHY Global Services<br><br>- 📚 I'm currently learning Node.js<br><br>- 💼 Skill<br><br> 
+<p align="left">🔭 I’m working as Software Developer Intern on WHY Global Services<br><br>
+
+📚 I'm currently learning Node.js<br><br>
+
+💼 Skill<br><br> 
 <ul>
-<li>Languages:</li> JavaScript<br><br>
-<li>Frontend:</li> HTML, CSS, React.js<br><br>
-<li>Backend:</li> Node.js<br><br>
-<li>Database:</li> MongoDB Language: JavaScript<br><br>
-<li>Others:</li> GitHub, Adobe Photoshop, Adobe Illustrator, Figma</p>
+<li>Languages: JavaScript</li><br><br>
+<li>Frontend: HTML, CSS, React.js</li><br><br>
+<li>Backend: Node.js</li><br><br>
+<li>Database: MongoDB Language: JavaScript</li><br><br>
+<li>Others: GitHub, Adobe Photoshop, Adobe Illustrator, Figma</li>
+</ul>
 
 ###
 
@@ -33,27 +38,27 @@
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  /><br>
   <img width="20" />
   <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="40" alt="photoshop logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  /><br>
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" height="40" alt="behance logo"  />
   <img width="20" />
   <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="canva logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-</div>
+</div><br>
 
 ###
-<h3>align="left">📚 Projects<br><br></h3>
+<h3 align="left">📚 Projects<br></h3>
 <ul>
-  <li><a href="https://nazeerahmed7.github.io/quran_api/"><h3>Al-Quran API:</h3></a></li><br><br> 
-  <li><a href="https://www.behance.net/gallery/205198787/Only-Content-Creators-%28Mood-Board%29"><h3>Only Content Creators (Mood Board):</h3></a></li><br><br>
-  <li><a href="https://www.behance.net/gallery/205200639/Only-Content-Creators-%28Webpage-Design%29"><h3> Only Content Creators (Figma Web Design):</h3></a></li><br><br>
+  <h3><li><a href="https://nazeerahmed7.github.io/quran_api/">Al-Quran API:</a></h3></li><br> 
+  <h3><li><a href="https://www.behance.net/gallery/205198787/Only-Content-Creators-%28Mood-Board%29">Only Content Creators (Mood Board):</a></h3></li><br>
+  <h3><li><a href="https://www.behance.net/gallery/205200639/Only-Content-Creators-%28Webpage-Design%29">Only Content Creators (Figma Web Design):</a></h3></li><br>
 </ul>
 
 ###
