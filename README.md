@@ -6,7 +6,13 @@
 
 ###
 
-<p align="left">- 🔭 I’m working as Software Developer Intern on WHY Global Services<br><br>- 📚 I'm currently learning Node.js<br><br>- 💼 Skill<br><br>Languages: JavaScript<br><br>Frontend: HTML, CSS, React.js<br><br>Backend: Node.js<br><br>Database: MongoDB Language: JavaScript<br><br>Others: GitHub, Adobe Photoshop, Adobe Illustrator, Figma</p>
+<p align="left">- 🔭 I’m working as Software Developer Intern on WHY Global Services<br><br>- 📚 I'm currently learning Node.js<br><br>- 💼 Skill<br><br> 
+<ul>
+<li>Languages:</li> JavaScript<br><br>
+<li>Frontend:</li> HTML, CSS, React.js<br><br>
+<li>Backend:</li> Node.js<br><br>
+<li>Database:</li> MongoDB Language: JavaScript<br><br>
+<li>Others:</li> GitHub, Adobe Photoshop, Adobe Illustrator, Figma</p>
 
 ###
 
@@ -43,10 +49,12 @@
 </div>
 
 ###
-
-<h3 align="left">📚 Projects<br><br><a href="https://nazeerahmed7.github.io/quran_api/">Al-Quran API:</a> <br><br> 
-  <a href="https://www.behance.net/gallery/205198787/Only-Content-Creators-%28Mood-Board%29"> Only Content Creators (Mood Board):</a> <br><br>
-  <a href="https://www.behance.net/gallery/205200639/Only-Content-Creators-%28Webpage-Design%29"> Only Content Creators (Figma Web Design):</a> <br><br></h3>
+<h3>align="left">📚 Projects<br><br></h3>
+<ul>
+  <li><a href="https://nazeerahmed7.github.io/quran_api/"><h3>Al-Quran API:</h3></a></li><br><br> 
+  <li><a href="https://www.behance.net/gallery/205198787/Only-Content-Creators-%28Mood-Board%29"><h3>Only Content Creators (Mood Board):</h3></a></li><br><br>
+  <li><a href="https://www.behance.net/gallery/205200639/Only-Content-Creators-%28Webpage-Design%29"><h3> Only Content Creators (Figma Web Design):</h3></a></li><br><br>
+</ul>
 
 ###
 
