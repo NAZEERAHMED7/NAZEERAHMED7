@@ -2,11 +2,11 @@
 
 ###
 
-<h3 align="left">"I am a dedicated software developer with a strong focus on Full Stack Development. I have a passion for designing and building robust, dynamic web applications, leveraging the latest technologies to deliver efficient and scalable solutions."</h3>
+<h3 align="left">"I am a dedicated MERN Stack developer with a strong focus on Full Stack Development. I have a passion for designing and building robust, dynamic web applications, leveraging the latest technologies to deliver efficient and scalable solutions."</h3>
 
 ###
 
-<p align="left">🔭 I’m working as Software Developer Intern on WHY Global Services<br><br>
+<p align="left">🔭 I’m working as MERN Stack Developer Intern on WHY Global Services<br><br>
 
 📚 I'm currently learning Node.js, React <br><br>
 
