@@ -8,15 +8,15 @@
 
 <p align="left">🔭 I’m working as MERN Stack Developer Intern on WHY Global Services<br><br>
 
-📚 I'm currently learning Node.js, React <br><br>
+📚 I'm currently learning MERN and UX UI <br><br>
 
 💼 Skill<br><br> 
 <ul>
-<li>Languages: JavaScript</li><br><br>
-<li>Frontend: HTML, CSS, React.js</li><br><br>
-<li>Backend: Node.js</li><br><br>
-<li>Database: MongoDB Language: JavaScript</li><br><br>
-<li>Others: GitHub, Adobe Photoshop, Adobe Illustrator, Figma</li>
+<li>Frontend: HTML, CSS, Tailwind, Bootstrap, Javascript, ReactJs</li><br><br>
+<li>Backend: NodeJS, Python </li><br><br>
+<li>Database: MongoDB</li><br><br>
+<li>Designing Software: Figma, Canva, Behance, Adobe Illustrator, Adobe Photoshop</li><br><br>
+<li>Others: GitHub</li>
 </ul><br>
 
 ###
